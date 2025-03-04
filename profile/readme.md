@@ -6,34 +6,34 @@ COMSM0166 Software Engineering Discipline and Practice is a team-based project u
 
 # 2025
 
-- Team 1 - [repo](https://github.com/UoB-COMSM0166/2025-group-1)
-- Team 2 - [repo](https://github.com/UoB-COMSM0166/2025-group-2)
-- Team 3 - [repo](https://github.com/UoB-COMSM0166/2025-group-3)
-- Team 4 - [repo](https://github.com/UoB-COMSM0166/2025-group-4)
-- Team 5 - [repo](https://github.com/UoB-COMSM0166/2025-group-5)
-- Team 6 - [repo](https://github.com/UoB-COMSM0166/2025-group-6)
-- Team 7 - [repo](https://github.com/UoB-COMSM0166/2025-group-7)
-- Team 8 - [repo](https://github.com/UoB-COMSM0166/2025-group-8)
-- Team 9 - [repo](https://github.com/UoB-COMSM0166/2025-group-9)
-- Team 10 - [repo](https://github.com/UoB-COMSM0166/2025-group-10)
-- Team 11a - [repo](https://github.com/UoB-COMSM0166/2025-group-11a)
-- Team 11b - [repo](https://github.com/UoB-COMSM0166/2025-group-11b)
-- Team 12 - [repo](https://github.com/UoB-COMSM0166/2025-group-12)
-- Team 13 - [repo](https://github.com/UoB-COMSM0166/2025-group-13)
-- Team 14 - [repo](https://github.com/UoB-COMSM0166/2025-group-14)
-- Team 15 - [repo](https://github.com/UoB-COMSM0166/2025-group-15)
-- Team 16 - [repo](https://github.com/UoB-COMSM0166/2025-group-16)
-- Team 17 - [repo](https://github.com/UoB-COMSM0166/2025-group-17)
-- Team 18  - [repo](https://github.com/UoB-COMSM0166/2025-group-18)
-- Team 19 - [repo](https://github.com/UoB-COMSM0166/2025-group-19)
-- Team 20 - [repo](https://github.com/UoB-COMSM0166/2025-group-20)
-- Team 21 - [repo](https://github.com/UoB-COMSM0166/2025-group-21)
-- Team 22 - [repo](https://github.com/UoB-COMSM0166/2025-group-22)
-- Team 23 - [repo](https://github.com/UoB-COMSM0166/2025-group-23)
-- Team 24 - [repo](https://github.com/UoB-COMSM0166/2025-group-24)
-- Team 25 - [repo](https://github.com/UoB-COMSM0166/2025-group-25)
-- Team 26 - [repo](https://github.com/UoB-COMSM0166/2025-group-26)
-- Team 27 - [repo](https://github.com/UoB-COMSM0166/2025-group-27)
-- Team 28 - [repo](https://github.com/UoB-COMSM0166/2025-group-28)
-- Team 29 - [repo](https://github.com/UoB-COMSM0166/2025-group-29)
-- Team 30 - [repo](https://github.com/UoB-COMSM0166/2025-group-30)
+- Team 1 - [repo](https://github.com/UoB-COMSM0166/2025-group-1) Raft
+- Team 2 - [repo](https://github.com/UoB-COMSM0166/2025-group-2) Fruit Merge
+- Team 3 - [repo](https://github.com/UoB-COMSM0166/2025-group-3) Capoo
+- Team 4 - [repo](https://github.com/UoB-COMSM0166/2025-group-4) Rusty Rover's Run 
+- Team 5 - [repo](https://github.com/UoB-COMSM0166/2025-group-5) Dragon Adventure
+- Team 6 - [repo](https://github.com/UoB-COMSM0166/2025-group-6) Puck Power Clash
+- Team 7 - [repo](https://github.com/UoB-COMSM0166/2025-group-7) Tank Trouble
+- Team 8 - [repo](https://github.com/UoB-COMSM0166/2025-group-8) Iron Rebellion
+- Team 9 - [repo](https://github.com/UoB-COMSM0166/2025-group-9) Race for the Cure
+- Team 10 - [repo](https://github.com/UoB-COMSM0166/2025-group-10) Up Up Angel
+- Team 11a - [repo](https://github.com/UoB-COMSM0166/2025-group-11a) Snake Rival
+- Team 11b - [repo](https://github.com/UoB-COMSM0166/2025-group-11b) Defend Bristol
+- Team 12 - [repo](https://github.com/UoB-COMSM0166/2025-group-12) Green Renaissance 
+- Team 13 - [repo](https://github.com/UoB-COMSM0166/2025-group-13) Dino Escape
+- Team 14 - [repo](https://github.com/UoB-COMSM0166/2025-group-14) Narrowboat Chase
+- Team 15 - [repo](https://github.com/UoB-COMSM0166/2025-group-15) Crossing the Road
+- Team 16 - [repo](https://github.com/UoB-COMSM0166/2025-group-16) Unstoppable
+- Team 17 - [repo](https://github.com/UoB-COMSM0166/2025-group-17) Out
+- Team 18  - [repo](https://github.com/UoB-COMSM0166/2025-group-18) Plan Roguelike Knight
+- Team 19 - [repo](https://github.com/UoB-COMSM0166/2025-group-19) Zodiac Catch
+- Team 20 - [repo](https://github.com/UoB-COMSM0166/2025-group-20) Smoothie Operator
+- Team 21 - [repo](https://github.com/UoB-COMSM0166/2025-group-21) Learn to Fly
+- Team 22 - [repo](https://github.com/UoB-COMSM0166/2025-group-22) Twilight Seeker
+- Team 23 - [repo](https://github.com/UoB-COMSM0166/2025-group-23) Take Aim
+- Team 24 - [repo](https://github.com/UoB-COMSM0166/2025-group-24) Plane Game
+- Team 25 - [repo](https://github.com/UoB-COMSM0166/2025-group-25) Echoes of Adventure
+- Team 26 - [repo](https://github.com/UoB-COMSM0166/2025-group-26) Duka Soul
+- Team 27 - [repo](https://github.com/UoB-COMSM0166/2025-group-27) Glitchwood
+- Team 28 - [repo](https://github.com/UoB-COMSM0166/2025-group-28) Astrocat
+- Team 29 - [repo](https://github.com/UoB-COMSM0166/2025-group-29) VoidEater.io
+- Team 30 - [repo](https://github.com/UoB-COMSM0166/2025-group-30) Haystacking
