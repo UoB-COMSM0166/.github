@@ -1,11 +1,8 @@
 # COMSM0166
 
 COMSM0166 Software Engineering Discipline and Practice is a team-based project unit for the Computer Science Conversion Course (MSc) at the University of Bristol.
-f
-
 
 # 2025
-
 - Team 1 - [repo](https://github.com/UoB-COMSM0166/2025-group-1) [play](https://uob-comsm0166.github.io/2025-group-1/) Raft
 - Team 2 - [repo](https://github.com/UoB-COMSM0166/2025-group-2) [play](https://uob-comsm0166.github.io/2025-group-2/) Fruit Merge
 - Team 3 - [repo](https://github.com/UoB-COMSM0166/2025-group-3) [play](https://uob-comsm0166.github.io/2025-group-3/) Capo's
