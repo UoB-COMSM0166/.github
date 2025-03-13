@@ -6,7 +6,7 @@ COMSM0166 Software Engineering Discipline and Practice is a team-based project u
 
 <table>
   <tr>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-1/"><img src="./Thumbnails/comingsoon.jpg" width="50" height="50"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-1">Group 1 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-1/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-1">Group 1 Repo</a></td>
     <td><a href="https://example.com/2"><img src="https://via.placeholder.com/100"></a></td>
     <td><a href="https://example.com/3"><img src="https://via.placeholder.com/100"></a></td>
     <td><a href="https://example.com/4"><img src="https://via.placeholder.com/100"></a></td>
