@@ -2,6 +2,8 @@
 
 COMSM0166 Software Engineering Discipline and Practice is a team-based project unit for the Computer Science Conversion Course (MSc) at the University of Bristol.
 
+A catalogue of the games and reports for this module from 2023 is provided below.  From 2025 the games are playable in-browser, and so the thumbnail links to the game.
+
 # 2025
 
 <table>
