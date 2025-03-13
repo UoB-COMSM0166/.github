@@ -6,7 +6,7 @@ COMSM0166 Software Engineering Discipline and Practice is a team-based project u
 
 <table>
   <tr>
-    <td><a href="https://example.com/1"><img src="https://via.placeholder.com/100" alt="1"></a></td>
+    <td><a href="https://example.com/1"><img src="https://via.placeholder.com/100" alt="1"></a><a href="https://example.com/1">Group 1 Repo</a></td>
     <td><a href="https://example.com/2"><img src="https://via.placeholder.com/100" alt="2"></a></td>
     <td><a href="https://example.com/3"><img src="https://via.placeholder.com/100" alt="3"></a></td>
     <td><a href="https://example.com/4"><img src="https://via.placeholder.com/100" alt="4"></a></td>
