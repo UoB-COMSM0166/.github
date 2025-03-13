@@ -71,7 +71,7 @@ A catalogue of the games and reports for this module from 2023 is provided below
     <td><img src="./Thumbnails/2024/group_10.jpg" width="120" height="120"><br><a href="https://github.com/UoB-COMSM0166/2024-group-10" target="_blank" rel="noopener noreferrer">Group 10 Repo</a></td>
   </tr>
   <tr>
-    <td><img src="./Thumbnails/2024/group_11.jpg" width="120" height="120"><br><a href="https://github.com/UoB-COMSM0166/2024-group-11" target="_blank" rel="noopener noreferrer">Group 11 Repo</a></td>
+    <td><img src="./Thumbnails/2024/group_11.png" width="120" height="120"><br><a href="https://github.com/UoB-COMSM0166/2024-group-11" target="_blank" rel="noopener noreferrer">Group 11 Repo</a></td>
     <td><img src="./Thumbnails/2024/group_12.png" width="120" height="120"><br><a href="https://github.com/UoB-COMSM0166/2024-group-12" target="_blank" rel="noopener noreferrer">Group 12 Repo</a></td>
     <td><img src="./Thumbnails/2024/group_13.png" width="120" height="120"><br><a href="https://github.com/UoB-COMSM0166/2024-group-13" target="_blank" rel="noopener noreferrer">Group 13 Repo</a></td>
     <td><img src="./Thumbnails/2024/group_14.png" width="120" height="120"><br><a href="https://github.com/UoB-COMSM0166/2024-group-14" target="_blank" rel="noopener noreferrer">Group 14 Repo</a></td>
