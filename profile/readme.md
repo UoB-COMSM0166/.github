@@ -6,46 +6,46 @@ COMSM0166 Software Engineering Discipline and Practice is a team-based project u
 
 <table>
   <tr>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-1/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-1">Group 1 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-2/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-2">Group 2 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-3/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-3">Group 3 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-4/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-4">Group 4 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-5/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-5">Group 5 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-1/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-1" target="_blank">Group 1 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-2/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-2" target="_blank">Group 2 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-3/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-3" target="_blank">Group 3 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-4/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-4" target="_blank">Group 4 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-5/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-5" target="_blank">Group 5 Repo</a></td>
   </tr>
   <tr>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-6/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-6">Group 6 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-7/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-7">Group 7 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-8/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-8">Group 8 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-9/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-9">Group 9 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-10/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-10">Group 10 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-6/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-6" target="_blank">Group 6 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-7/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-7" target="_blank">Group 7 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-8/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-8" target="_blank">Group 8 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-9/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-9" target="_blank">Group 9 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-10/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-10" target="_blank">Group 10 Repo</a></td>
   </tr>
   <tr>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-11/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-11">Group 11 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-12/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-12">Group 12 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-13/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-13">Group 13 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-14/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-14">Group 14 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-15/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-15">Group 15 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-11/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-11" target="_blank">Group 11 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-12/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-12" target="_blank">Group 12 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-13/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-13" target="_blank">Group 13 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-14/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-14" target="_blank">Group 14 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-15/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-15" target="_blank">Group 15 Repo</a></td>
   </tr>
   <tr>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-16/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-16">Group 16 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-17/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-17">Group 17 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-18/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-18">Group 18 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-19/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-19">Group 19 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-20/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-20">Group 20 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-16/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-16" target="_blank">Group 16 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-17/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-17" target="_blank">Group 17 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-18/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-18" target="_blank">Group 18 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-19/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-19" target="_blank">Group 19 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-20/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-20" target="_blank">Group 20 Repo</a></td>
   </tr>
   <tr>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-21/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-21">Group 21 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-22/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-22">Group 22 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-23/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-23">Group 23 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-24/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-24">Group 24 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-25/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-25">Group 25 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-21/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-21" target="_blank">Group 21 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-22/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-22" target="_blank">Group 22 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-23/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-23" target="_blank">Group 23 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-24/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-24" target="_blank">Group 24 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-25/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-25" target="_blank">Group 25 Repo</a></td>
   </tr>
   <tr>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-26/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-26">Group 26 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-27/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-27">Group 27 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-28/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-28">Group 28 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-29/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-29">Group 29 Repo</a></td>
-    <td><a href="https://uob-comsm0166.github.io/2025-group-30/"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-30">Group 30 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-26/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-26" target="_blank">Group 26 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-27/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-27" target="_blank">Group 27 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-28/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-28" target="_blank">Group 28 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-29/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-29" target="_blank">Group 29 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2025-group-30/" target="_blank"><img src="./Thumbnails/comingsoon.jpg" width="150" height="150"></a><br><a href="https://github.com/UoB-COMSM0166/2025-group-30" target="_blank">Group 30 Repo</a></td>
   </tr>
 </table>
 - Team 1 - [repo](https://github.com/UoB-COMSM0166/2025-group-1) [play](https://uob-comsm0166.github.io/2025-group-1/) Raft
