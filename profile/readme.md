@@ -4,6 +4,8 @@ COMSM0166 Software Engineering Discipline and Practice is a team-based project u
 
 A catalogue of the games and reports for this module from 2023 is provided below.  From 2025 the games are playable in-browser, and so the thumbnail links to the game.
 
+The template for the reports can be found [here](https://github.com/peteinfo/COMSM0166-project-template/tree/main).
+
 # 2025
 
 <table>
