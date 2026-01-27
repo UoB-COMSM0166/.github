@@ -6,6 +6,8 @@ A catalogue of the games and reports for this module from 2023 is provided below
 
 The template for the reports can be found [here](https://github.com/peteinfo/COMSM0166-project-template/tree/main).
 
+The GitHub introduction tutorial can be found [here](https://github.com/UoB-COMSM0166/github-intro).
+
 # 2026
 
 <table>
