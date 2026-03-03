@@ -52,9 +52,6 @@ The GitHub introduction tutorial can be found [here](https://github.com/UoB-COMS
   <tr>
   	<td><a href="https://github.com/UoB-COMSM0166/2026-group-26" target="_blank" rel="noopener noreferrer">Group 26 Repo</a></td>
     <td><a href="https://github.com/UoB-COMSM0166/2026-group-27" target="_blank" rel="noopener noreferrer">Group 27 Repo</a></td>
-    <td><a href="https://github.com/UoB-COMSM0166/2026-group-28" target="_blank" rel="noopener noreferrer">Group 28 Repo</a></td>
-    <td><a href="https://github.com/UoB-COMSM0166/2026-group-29" target="_blank" rel="noopener noreferrer">Group 29 Repo</a></td>
-    <td><a href="https://github.com/UoB-COMSM0166/2026-group-30" target="_blank" rel="noopener noreferrer">Group 30 Repo</a>
 </td>
 </table>
 
