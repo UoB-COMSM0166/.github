@@ -12,7 +12,7 @@ The GitHub introduction tutorial can be found [here](https://github.com/UoB-COMS
 
 <table>
   <tr>
-    <td><a href="https://github.com/UoB-COMSM0166/2026-group-1" target="_blank" rel="noopener noreferrer">Group 1 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2026-group-1/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-1" target="_blank" rel="noopener noreferrer">Group 1 Repo</a>  </td>
     <td><a href="https://github.com/UoB-COMSM0166/2026-group-2" target="_blank" rel="noopener noreferrer">Group 2 Repo</a></td>
     <td><a href="https://github.com/UoB-COMSM0166/2026-group-3" target="_blank" rel="noopener noreferrer">Group 3 Repo</a></td>
     <td><a href="https://github.com/UoB-COMSM0166/2026-group-4" target="_blank" rel="noopener noreferrer">Group 4 Repo</a></td>
