@@ -50,7 +50,7 @@ The GitHub introduction tutorial can be found [here](https://github.com/UoB-COMS
 </td>
   </tr>
   <tr>
-  	<td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-26" target="_blank" rel="noopener noreferrer">Group 26 Repo</a></td>
+  	<td><a href="https://uob-comsm0166.github.io/2026-group-26/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-26" target="_blank" rel="noopener noreferrer">Group 26 Repo</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-27" target="_blank" rel="noopener noreferrer">Group 27 Repo</a></td>
 </td>
 </table>
