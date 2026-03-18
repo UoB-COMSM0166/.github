@@ -46,7 +46,7 @@ The GitHub introduction tutorial can be found [here](https://github.com/UoB-COMS
     <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-22" target="_blank" rel="noopener noreferrer">Group 22 Repo</a></td>
     <td><a href="https://uob-comsm0166.github.io/2026-group-23/Game_v1.4/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-23" target="_blank" rel="noopener noreferrer">Group 23 Repo</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-24" target="_blank" rel="noopener noreferrer">Group 24 Repo</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-25" target="_blank" rel="noopener noreferrer">Group 25 Repo</a>
+    <td><a href="https://uob-comsm0166.github.io/2026-group-25/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-25" target="_blank" rel="noopener noreferrer">Group 25 Repo</a>
 </td>
   </tr>
   <tr>
