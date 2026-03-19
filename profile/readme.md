@@ -29,7 +29,7 @@ The GitHub introduction tutorial can be found [here](https://github.com/UoB-COMS
   	<td><a href="https://uob-comsm0166.github.io/2026-group-11/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-11" target="_blank" rel="noopener noreferrer">Group 11 Repo</a></td>
     <td><a href="https://uob-comsm0166.github.io/2026-group-12/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-12" target="_blank" rel="noopener noreferrer">Group 12 Repo</a></td>
     <td><a href="https://uob-comsm0166.github.io/2026-group-13/Demo1/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-13" target="_blank" rel="noopener noreferrer">Group 13 Repo</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-14" target="_blank" rel="noopener noreferrer">Group 14 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2026-group-14/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-14" target="_blank" rel="noopener noreferrer">Group 14 Repo</a></td>
     <td><a href="https://uob-comsm0166.github.io/2026-group-15/SuperCatAndSteve/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-15" target="_blank" rel="noopener noreferrer">Group 15 Repo</a>
 </td>
   </tr>
@@ -43,15 +43,15 @@ The GitHub introduction tutorial can be found [here](https://github.com/UoB-COMS
   </tr>
   <tr>
   	<td><a href="https://uob-comsm0166.github.io/2026-group-21/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-21" target="_blank" rel="noopener noreferrer">Group 21 Repo</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-22" target="_blank" rel="noopener noreferrer">Group 22 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2026-group-22/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-22" target="_blank" rel="noopener noreferrer">Group 22 Repo</a></td>
     <td><a href="https://uob-comsm0166.github.io/2026-group-23/Game_v1.4/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-23" target="_blank" rel="noopener noreferrer">Group 23 Repo</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-24" target="_blank" rel="noopener noreferrer">Group 24 Repo</a></td>
+    <td><a href="https://yejian414-tech.github.io/game_remake/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-24" target="_blank" rel="noopener noreferrer">Group 24 Repo</a></td>
     <td><a href="https://uob-comsm0166.github.io/2026-group-25/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-25" target="_blank" rel="noopener noreferrer">Group 25 Repo</a>
 </td>
   </tr>
   <tr>
   	<td><a href="https://uob-comsm0166.github.io/2026-group-26/" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-26" target="_blank" rel="noopener noreferrer">Group 26 Repo</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-27" target="_blank" rel="noopener noreferrer">Group 27 Repo</a></td>
+    <td><a href="https://uob-comsm0166.github.io/2026-group-27/main_menu.html" target="_blank" rel="noopener noreferrer"><img src="./Thumbnails/comingsoon.jpg" width="120" height="120"></a><br><a href="https://github.com/UoB-COMSM0166/2026-group-27" target="_blank" rel="noopener noreferrer">Group 27 Repo</a></td>
 </td>
 </table>
 
